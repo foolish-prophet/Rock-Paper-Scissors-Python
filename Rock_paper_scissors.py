@@ -37,11 +37,6 @@ else:
         print(f"The computer got: {computer_choice}")
         print(win_lose)
 
-    elif player_1_choice == "scissors" and computer_choice == "paper":
-         win_lose = win_lose[1]
-         print(f"The computer got: {computer_choice}")
-         print(win_lose)
-
     elif player_1_choice == "scissors" and computer_choice == "scissors":
          win_lose = win_lose[2]
          print(f"The computer got: {computer_choice}")
