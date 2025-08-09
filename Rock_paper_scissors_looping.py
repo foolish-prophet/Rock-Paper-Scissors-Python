@@ -1,4 +1,5 @@
 import random
+## RPS same logic with looping
 
 player_options = ['rock', 'paper', 'scissors']
 win_lose = ['win', 'lose', 'tie']
